@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="defbff13-3b5a-4d54-9a3b-786abec73dfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java2/java2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java2/src/Q1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java2/src/Q1/classes/BOI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java2/src/Q1/classes/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java2/src/Q1/classes/SBI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java2/src/Q1/classes/icici.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java2/src/Q1/classes/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ques5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ques5.java" afterDir="false" />
-    </list>
+    <list default="true" id="defbff13-3b5a-4d54-9a3b-786abec73dfd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
