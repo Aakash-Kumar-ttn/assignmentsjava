@@ -1,2 +1,5 @@
-package Q4;public class CustomException {
+package Q4;
+
+public class CustomException {
+
 }
