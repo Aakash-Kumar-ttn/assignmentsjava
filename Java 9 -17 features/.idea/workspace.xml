@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="429389e5-7212-437d-9aa3-ae6a3670c1bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 9 -17 features.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q10/q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q11/q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q12/q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2/q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3/q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q4/q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q5/q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q6/q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q7/q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q8/q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q9/q9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mo5evMJ6UdDYcU4ZfpdXKAg7ic" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="429389e5-7212-437d-9aa3-ae6a3670c1bb" name="Changes" comment="" />
+      <created>1678421192551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678421192551</updated>
+    </task>
+    <servers />
+  </component>
+</project>
