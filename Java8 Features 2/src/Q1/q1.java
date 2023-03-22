@@ -12,6 +12,7 @@ public class q1 {
 
     public static void main(String[] args) {
 
+
         //consumer
 
         Consumer c1 = (a) -> {
